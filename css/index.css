@@ -1,0 +1,68 @@
+body{
+    background-color: #808080;
+}
+
+footer{
+    padding-top: 10px;
+   
+    background-color: #101010;
+    color: #9d9d9d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.navbar{
+    border-radius: 0%;
+}
+.banner-image{
+     padding-top: 75px;
+     padding-bottom: 50px;
+         height: 700px;
+     color: #f8f8f8;
+     background-image: url(/Root/Assignment2/images/intro-bg_1.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+}
+.banner-content{
+      margin: auto;
+     background-color: rgba(0, 0, 0, 0.7);
+    max-width: 500px;
+    margin-top:270px;
+    padding: 80px;
+    
+    
+}
+.form-styling{
+    background-color: #ffffff;
+    padding: 20px;
+}
+.styling-header{
+     background-color: #ffffff;
+}
+/* @media (max-width:768px){ */
+.col-sm-margin{
+    margin-top: 248px;
+}
+    .jumbotron{
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin-bottom: 100px;
+        background: #eeeeee;
+        color: black;
+    }
+    .col-xs-margin{
+        margin-top: 30px;
+    }
+   
+
+    .table-background{
+         background-color: #ffffffe7;
+            }
+  .background-color{
+      background-color: #ffffff;
+      padding:30px 10px;
+  }
+  .margin-bottom{
+      margin-bottom: 50px;
+  }
