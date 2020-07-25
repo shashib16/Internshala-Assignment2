@@ -63,8 +63,8 @@ h1,h2,h3,h4,h5,h6{
 }
     .jumbotron{
         margin-bottom: 0px;
-        background: gray;
-        color: black;
+        background: #808080;
+        color: #000000;
     }
     .col-xs-margin{
         margin-top: 30px;
@@ -81,10 +81,14 @@ h1,h2,h3,h4,h5,h6{
   .margin-bottom{
       margin-bottom: 50px;
   }
-  .cart-content,.setting-content,.logout-content{
+  .cart-content,.setting-content,.logout-content,.login-content,.signup-content{
          margin-top: 40px;
   }
   .jumbotron-content{
        padding:20px;
+        
        background-color:#9d9d9d;
+  }
+  .jumbotron-content a{
+      columns: #000000;
   }
